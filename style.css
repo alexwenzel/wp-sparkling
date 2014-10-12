@@ -1,0 +1,17 @@
+/*
+ Theme Name:   alexwenzel/wp-sparkling
+ Author:       alexwenzel
+ Author URI:   http://alexwenzel.de
+ Template:     sparkling
+ Version:      1.0.0
+ Text Domain:  lexwenzel-wp-sparkling
+*/
+ 
+@import url("../sparkling/style.css");
+ 
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.navbar-brand.has-image {
+  float:none;
+}
